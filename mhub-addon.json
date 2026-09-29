@@ -1,11 +1,13 @@
 {
-  "id": "org.movie-box.nrpp",
-  "name": "nrpp",
+  "id": "movie-box-addon",
+  "name": "Movie Box French",
   "version": "1.0.0",
   "specVersion": 2,
-  "description": "Tous les films et séries depuis movie-box.co",
+  "description": "Addon mHub pour parcourir les films et séries",
   "resources": [
-    "catalog"
+    "catalog",
+    "item",
+    "source"
   ],
   "types": [
     "video"
@@ -13,7 +15,7 @@
   "catalogs": [
     {
       "id": "all",
-      "name": "Tous les films et séries",
+      "name": "Catalogue Général",
       "type": "video"
     }
   ]
