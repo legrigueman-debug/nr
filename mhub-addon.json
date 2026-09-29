@@ -8,19 +8,13 @@
     "catalog"
   ],
   "types": [
-    "movie",
-    "series"
+    "video"
   ],
   "catalogs": [
     {
       "id": "all",
-      "name": "Tous les films",
-      "type": "movie"
-    },
-    {
-      "id": "all",
-      "name": "Toutes les séries",
-      "type": "series"
+      "name": "Tous les films et séries",
+      "type": "video"
     }
   ]
 }
