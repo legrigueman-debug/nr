@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": "mb-film-1",
+      "type": "video",
+      "name": "Film d'exemple 1",
+      "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=400&q=80",
+      "description": "Exemple de film depuis movie-box.co.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "mb-serie-1",
+      "type": "video",
+      "name": "Série d'exemple 1",
+      "poster": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=400&q=80",
+      "description": "Exemple de série depuis movie-box.co.",
+      "releaseInfo": "2024"
+    }
+  ]
+}
