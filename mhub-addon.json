@@ -1,0 +1,26 @@
+{
+  "id": "org.movie-box.nrpp",
+  "name": "nrpp",
+  "version": "1.0.0",
+  "specVersion": 2,
+  "description": "Tous les films et séries depuis movie-box.co",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "id": "all",
+      "name": "Tous les films",
+      "type": "movie"
+    },
+    {
+      "id": "all",
+      "name": "Toutes les séries",
+      "type": "series"
+    }
+  ]
+}
