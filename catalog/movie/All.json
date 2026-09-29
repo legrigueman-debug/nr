@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": "mb-serie-1",
+      "type": "series",
+      "name": "Série d'exemple 1",
+      "poster": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=400&q=80",
+      "description": "Il s'agit d'un espace réservé pour une série de movie-box.co.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "mb-serie-2",
+      "type": "series",
+      "name": "Série d'exemple 2",
+      "poster": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=400&q=80",
+      "description": "Remplacez ces items par le vrai catalogue des séries.",
+      "releaseInfo": "2022"
+    }
+  ]
+}
